@@ -1,6 +1,6 @@
 # github-test
 
-프로젝트 이름
+- 프로젝트 이름
 
 ## Features
 
